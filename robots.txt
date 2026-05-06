@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-q4bcdz.rtphokiwagtoto.com/sitemap.xml
